@@ -5,5 +5,5 @@
 ##### Реализовать приложение для обработки параметров командной строки;
 ##### Создать проект приложения «калькулятор».
 
-![alt text](https://github.com/Alex5200/Practic-1-/block1.png)
-![alt text](https://github.com/Alex5200/Practic-1-/block2.png)
+![alt text](https://github.com/Alex5200/Practic-1-/blob/main/block1.png)
+![alt text](https://github.com/Alex5200/Practic-1-/blob/main/block2.png)
